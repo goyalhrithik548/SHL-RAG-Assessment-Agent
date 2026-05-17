@@ -1,0 +1,12 @@
+beautifulsoup4>=4.12.3
+fastapi>=0.115.0
+faiss-cpu>=1.8.0
+langchain>=0.3.0
+langchain-community>=0.3.0
+langchain-groq>=0.2.0
+langchain-huggingface>=0.1.0
+python-dotenv>=1.0.1
+requests>=2.32.3
+sentence-transformers>=3.0.1
+streamlit>=1.39.0
+uvicorn[standard]>=0.30.6
